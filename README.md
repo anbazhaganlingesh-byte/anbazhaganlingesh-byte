@@ -8,7 +8,6 @@ a Raspberry Pi hotspot monitor with real DNS-level blocking.
 - **GuardSpot** — home network monitoring, real DNS capture, real enforcement
 - *(link your other real projects here — 2-3 max, not everything)*
 
-#### Stack
-![Python](badge) ![Flask](badge) ![Linux](badge)
 
-📫 reach me: your@email.com
+
+📫 reach me: anbazhaganlingesh@email.com
