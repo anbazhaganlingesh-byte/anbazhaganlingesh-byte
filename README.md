@@ -1,4 +1,4 @@
-### Hey, I'm Linga 👋
+### Hey, I'm Lingeshwar A 👋
 Backend engineer building network security tools. Currently shipping GuardSpot — 
 a Raspberry Pi hotspot monitor with real DNS-level blocking.
 
