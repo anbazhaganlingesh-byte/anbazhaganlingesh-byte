@@ -21,3 +21,46 @@ Network Security Enthusiast
 Linux User
 CTF Player
 Security Project Builder
+┌──(root㉿lingeshwar)-[~/skills]
+└─# ls
+
+security-tools/
+programming/
+linux/
+networking/
+web-security/
+ctf/
+┌──(root㉿guardspot)-[~/network]
+└─# ./monitor.sh
+
+[✓] Network monitoring active
+[✓] Device discovery enabled
+[✓] Live activity feed running
+[✓] Packet capture enabled
+[✓] Security enforcement active
+┌──(lingeshwar㉿ctf)-[~/achievements]
+└─$ cat achievements.txt
+
+[+] $N1PH€RS 3.0 International CTF
+    └── 🏆 9th Place
+
+[+] z0d1ak CTF Qualifiers
+    └── 🎯 Rank #70 out of 1,253 participants
+    └── 👥 Representing: BitBr34kers
+🔐 Cryptography
+   ├── MD5 Collisions
+   ├── Mersenne Twister
+   ├── LCG Reversal
+   └── Custom Crypto Challenges
+
+🌐 Web Security
+   ├── CSRF
+   ├── IDOR
+   ├── SSTI
+   └── SQL Injection
+
+🔍 Other Security Areas
+   ├── Audio Steganography
+   ├── Digital Forensics
+   ├── Binary Analysis
+   └── Reverse Engineering
