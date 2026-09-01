@@ -1,13 +1,23 @@
-### Hey, I'm Lingeshwar A 👋
-Backend engineer building network security tools. Currently shipping GuardSpot — 
-a Raspberry Pi hotspot monitor with real DNS-level blocking.
+<div align="center">
 
-**What I'm working on right now:** real-time device blocking via dnsmasq + iptables
+# 👾 LINGESHWAR A
 
-#### Featured
-- **GuardSpot** — home network monitoring, real DNS capture, real enforcement
-- *(link your other real projects here — 2-3 max, not everything)*
+### Cybersecurity Student | Network Security Enthusiast | Linux User | CTF Player
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Network+Security+Enthusiast;Linux+User;CTF+Player;Building+Practical+Security+Tools" />
 
+</div>
 
-📫 reach me: anbazhaganlingesh@email.com
+---
+
+## 🧑‍💻 About Me
+
+```text
+┌──(lingeshwar㉿github)-[~/portfolio]
+└─$ whoami
+
+Cybersecurity Student
+Network Security Enthusiast
+Linux User
+CTF Player
+Security Project Builder
