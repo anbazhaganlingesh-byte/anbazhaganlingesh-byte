@@ -399,7 +399,7 @@ STATUS: SYSTEM ONLINE
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lingeshwar-a">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+<img src="https://www.linkedin.com/in/lingeshwar-a-940412338/&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 
 <a href="https://github.com/anbazhaganlingesh-byte">
